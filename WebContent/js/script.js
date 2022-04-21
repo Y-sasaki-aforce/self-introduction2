@@ -86,9 +86,3 @@ $('.slider').slick({
 	});
 
 
-$(function(){
-	$('#hoge ').on('click' , function(e){
-		e.preventDefault();//リンクの停止
-		$(this).parent().html('<iframe width="560" height="315" src="https://www.youtube.com/embed/UI4pCGWQB5k ?autoplay=1&rel=0&controls=0"></iframe>');
-	});
-});
