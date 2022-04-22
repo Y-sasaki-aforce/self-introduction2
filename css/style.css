@@ -3,7 +3,7 @@ body {
   font-family: "Montserrat","Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif;
   font-size: 15px;
   letter-spacing: .05em;
-  background-image: url(http://oide43.com/wp-content/uploads/2015/07/cloud_01.png); /* image url*/
+  background-image: url(../img/clouds.jpg); /* image url*/
   background-size: 360px 360px; /* image size */
   -webkit-animation: bg 5s linear infinite;
   animation: bg 10s infinite linear;
@@ -768,7 +768,7 @@ mountaineering
 ===================================*/
 
 .Mountaineering {
-	background-image: url(http://oide43.com/wp-content/uploads/2015/07/cloud_01.png); /* image url*/
+	background-image: url(../img/clouds.jpg); /* image url*/
   background-size: 360px 360px; /* image size */
   -webkit-animation: bg 5s linear infinite;
   animation: bg 10s infinite linear;
