@@ -928,9 +928,15 @@ h4 {
   }
 
   .works-item {
-    flex: 0 0 48%;
+    flex: 100%;
     margin-right: 0;
     margin-bottom: 30px;
+  }
+
+  .works-img {
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 25px;
   }
 
   /* Skill */
@@ -992,7 +998,7 @@ h4 {
   }
 
   .article-body h3:not(:first-child) {
-    margin-top: 30px;
+    margin-top: 100px;
   }
 
   .article-body p {
@@ -1017,5 +1023,12 @@ h4 {
 
   .mountain-body p:not(:last-child) {
     margin-bottom: 20px;
+  }
+
+  .video {
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 25px;
+    margin-right: 200px;
   }
 }
